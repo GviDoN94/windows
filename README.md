@@ -1,8 +1,8 @@
-# You can watch it [here](https://windows.vladislavsurin.ru/)
+# You can watch it [here](https://windows.gvidon94.ru/)
 
 ## Install the necessary programs
 
-- <https://nodejs.org/en/> - install node v16.15.1
+- <https://nodejs.org/en/> - install node.js v16.15.1
 
 ## Install dependencies
 
@@ -14,6 +14,6 @@
 - `npx gulp build` - development build
 - `npx gulp build-prod` - production build
 
-Source Files `src/`
+Source files `src/`
 
-Build `build/`
+Build files `dist/`
